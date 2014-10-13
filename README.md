@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Trying out github
+This repository is simply my attempt at learning github.
